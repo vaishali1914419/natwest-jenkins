@@ -37,6 +37,7 @@
 			</plugin>
 		</plugins>
 		<finalName>docker-springboot</finalName>
+		<defaultGoal>install</defaultGoal>
 	</build>
 
 </project>
