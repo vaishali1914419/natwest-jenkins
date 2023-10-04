@@ -11,7 +11,7 @@ public class DockerSpringbootApplication {
 
 	@GetMapping("/message")
 	public String getMessage(){
-		return "Welcome to Natwest Pvt Limited Groups. ";
+		return "Welcome to Natwest Pvt Limited Group. ";
 	}
 
 	public static void main(String[] args) {
